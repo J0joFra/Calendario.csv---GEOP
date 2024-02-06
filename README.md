@@ -29,8 +29,8 @@ Il codice richiede alcune modifiche molto semplice all'interno del codice, poich
 a] Vai in fondo al codice nella condizione '**if __name__ == "__main__":**'
 b] Sostituire user e psw con le proprie credenziali
 c] Cerca il file Calendario.csv creato precedentemente, selezionalo e clicca 'COPIA COME PERCORSO'
-d] Torna nel codice e scendi di qualche riga a 'csv_file_path = r"percorso\Calendario.csv"
-e] Sostituire "percorso\Calendario.csv" con il percorso copiato nel punto precedente*
+d] Torna nel codice e scendi di qualche riga a '**csv_file_path = r"percorso\Calendario.csv**"
+e] Sostituire "**percorso\Calendario.csv**" con il percorso copiato nel punto precedente*
 
 *Controllare che il percorso sia stato copiato correttamente
 
