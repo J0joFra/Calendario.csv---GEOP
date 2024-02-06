@@ -5,7 +5,7 @@ Sotto ho scritto la procedura per impostare il codice e per poi importarlo su Go
 -----------------------------------------------------------------------------------------------------------------------------
 1 **LIBRERIE DA INSTALLARE ED IMPORTARE**
 
-'**requests**' potrebbe richiedere un'installazione tramite pip (pip install requests), ma è possibile che requests sia già installato nell'ambiente Python. 
+'**requests**' potrebbe richiedere un'installazione tramite pip (pip install requests), ma è possibile che requests sia già installato nell'ambiente Python.
 '**datetime**' è una libreria standard di Python, fornisce classi per la gestione delle date e delle ore.
 '**timedelta**' è una parte di datetime e non richiede un'installazione separata, viene utilizzata per rappresentare la differenza tra due date o orari.
 '**calendar**' è una libreria standard di Python e non richiede l'installazione, fornisce funzionalità per lavorare con calendari.
